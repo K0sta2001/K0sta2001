@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @K0sta2001
+- 👀 I’m interested in Web and app development.
+- 🌱 I’m currently learning Node.js.
